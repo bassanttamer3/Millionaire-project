@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1672133613 source:c:\users\salma\desktop\project\func.c
+	"Func.h"
+
+1672133767 c:\users\salma\desktop\project\func.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1672139682 source:c:\users\salma\desktop\project\main.c
+	"Func.h"
+
+1672133714 source:c:\users\salma\desktop\project\ques.c
+	"Func.h"
+
+1672133613 source:c:\users\sky\downloads\millionaire project\millionaire project\func.c
+	"Func.h"
+
+1672133767 c:\users\sky\downloads\millionaire project\millionaire project\func.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1672139682 source:c:\users\sky\downloads\millionaire project\millionaire project\main.c
+	"Func.h"
+
+1672133714 source:c:\users\sky\downloads\millionaire project\millionaire project\ques.c
+	"Func.h"
+
